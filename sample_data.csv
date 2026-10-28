@@ -1,0 +1,11 @@
+finding_id,title,domain,severity,status,owner,days_open,evidence_status,business_impact
+BISO-001,Public application missing recent penetration test,Application Security,High,Open,Application Owner,47,Missing,Audit readiness and potential exposure
+BISO-002,Vendor security review awaiting responses,Vendor Risk,Medium,In Progress,VRM Coordinator,22,Partial,Third-party risk visibility delayed
+BISO-003,Privileged access review evidence incomplete,Identity and Access,High,Open,Identity Team,35,Missing,Access governance cannot be fully demonstrated
+BISO-004,Endpoint coverage exception requires validation,Endpoint Security,Critical,Open,Unassigned,12,Partial,Potential blind spot in endpoint protection
+BISO-005,Network diagram older than current architecture,Audit Readiness,Medium,Open,Infrastructure Team,61,Missing,Audit evidence may not reflect current state
+BISO-006,Security clause renewal confirmation pending,Contract Security,Low,In Progress,Legal Liaison,9,Partial,Contract control confirmation delayed
+BISO-007,Closed vulnerability awaiting evidence attachment,Vulnerability Management,High,Closed,Security Operations,42,Complete,Historical remediation evidence
+BISO-008,Application inventory owner not confirmed,Asset Governance,Medium,Open,,31,Missing,Accountability and inventory accuracy gap
+BISO-009,Security awareness completion below target,Security Awareness,Low,Open,Regional Coordinator,18,Verified,Training coverage needs follow-up
+BISO-010,Cloud logging control evidence under review,Security Monitoring,High,In Progress,Cloud Security,28,Partial,Detection coverage cannot yet be fully evidenced
